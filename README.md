@@ -1,6 +1,6 @@
 # StartComm
 
-Equipe: João Carlos, João Victor Evangelista
+Equipe: João Carlos, João Victor Evangelista, Daniel Neiva
 
 Tema Principal: Área financeira.
 
