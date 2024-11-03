@@ -11,3 +11,5 @@ Estudos recentes revelam que quase 50% das empresas fecham em até 3 anos, entã
 Link: https://youtu.be/woDmahdTqms
 
 Visão Geral: https://balsamiq.cloud/sk95efu/pevyp69/r1DB9
+
+Documentação: https://drive.google.com/drive/folders/1Ipxsqk5Lx5PGRsSZ0s531OlrDxL5PpJm
