@@ -8,8 +8,8 @@ Aplicativo para ajudar a criar ou gerenciar pequenas empresas ajudando-as com a 
 
 Estudos recentes revelam que quase 50% das empresas fecham em até 3 anos, então o principal objetivo da aplicação é ajudar o empreendedor com o controle de gastos e saúde financeira do seu negócio, a fim de potencializar seus lucros e deixa-los longe das dívidas. As principais funcionalidades serão ajudar o comerciante a encontrar o ROI(Retorno sobre o Investimento) adequado do seu negócio, exibir detalhes de faturamento e despesas do negócio, praticidade em administrar o comércio, além de controle de estoques.
 
-Link: https://youtu.be/woDmahdTqms
+Vídeo explicação: https://youtu.be/woDmahdTqms
 
-Visão Geral: https://balsamiq.cloud/sk95efu/pevyp69/r1DB9
+Rabisco-Frame: https://balsamiq.cloud/sk95efu/pevyp69/r1DB9
 
 Documentação: https://drive.google.com/drive/folders/1e_fMDUViF_mySGSeljCIESj6lKLbQc0s
