@@ -14,4 +14,6 @@ Rabisco-Frame: https://balsamiq.cloud/sk95efu/pevyp69/r1DB9
 
 Documentação: https://drive.google.com/drive/folders/1e_fMDUViF_mySGSeljCIESj6lKLbQc0s
 
+Backlog: https://startcomm.atlassian.net/jira/software/projects/STA/boards/2/backlog?selectedIssue=STA-4
+
 Em produção: https://github.com/arkantos603/StartComm
