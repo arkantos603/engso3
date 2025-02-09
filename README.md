@@ -17,3 +17,5 @@ Documentação: https://drive.google.com/drive/folders/1e_fMDUViF_mySGSeljCIESj6
 Backlog: https://startcomm.atlassian.net/jira/software/projects/STA/boards/2/backlog?selectedIssue=STA-4
 
 Em produção: https://github.com/arkantos603/StartComm
+
+Sprint final: https://www.youtube.com/watch?v=DrvfUUAZX6c
